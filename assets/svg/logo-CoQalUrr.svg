@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Abstract Flowing Data Triangle -->
+  <path d="M30 20 Q 60 20, 80 50 Q 60 80, 30 80 Q 50 50, 30 20 Z" fill="url(#flowGrad)" opacity="0.9"/>
+  <path d="M40 35 Q 60 35, 70 50 Q 60 65, 40 65 Q 50 50, 40 35 Z" fill="#ffffff" opacity="0.8"/>
+</svg>
